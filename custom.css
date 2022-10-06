@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.head{
+	margin-top: 10px;
+}
+li{
+	list-style: none;
+}
+
+.nav{
+	display:flex ;
+	justify-content: space-between;
+}
+.nav1{
+	border-left:2px solid black ;
+	text-align: center;
+}
+
+.nav1 i{
+	color: black;
+}
+.section{
+	margin-top: 20px;
+	font-size: 20px;
+}
